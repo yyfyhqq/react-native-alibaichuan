@@ -1,0 +1,51 @@
+{
+  "_from": "react-native-alibaichuanupdate",
+  "_id": "react-native-alibaichuanupdate@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-YFbB86iJUDqPmD1dCsUgGUkbAwc=",
+  "_location": "/react-native-alibaichuanupdate",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-alibaichuanupdate",
+    "name": "react-native-alibaichuanupdate",
+    "escapedName": "react-native-alibaichuanupdate",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-alibaichuanupdate/download/react-native-alibaichuanupdate-1.0.3.tgz",
+  "_shasum": "6056c1f3a889503a8f983d5d0ac52019491b0307",
+  "_spec": "react-native-alibaichuanupdate",
+  "_where": "/Users/Greeny/Downloads/workspace/zebra/project/web/ococ/b2b2c-rn",
+  "author": {
+    "name": "baiachen"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "React Native的阿里百川sdk,4.0.0.13版本",
+  "keywords": [
+    "react-native",
+    "alibc",
+    "sdk",
+    "alibaba",
+    "taobao",
+    "baichuan",
+    "login"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-alibaichuanupdate",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
